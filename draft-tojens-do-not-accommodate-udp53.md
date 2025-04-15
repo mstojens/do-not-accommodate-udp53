@@ -5,8 +5,8 @@ category: info
 docname: draft-tojens-do-not-accommodate-udp53-latest
 submissiontype: IETF
 v: 3
-area: INT
-workgroup: dnsop
+# area: INT
+# workgroup: dnsop
 keyword:
  - Classic DNS
  - DNS over TCP
