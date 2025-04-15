@@ -19,35 +19,24 @@
 # Change the file extension to match the format (.xml for XML, etc...)
 #
 ###
-title: "TODO - Your title"
-abbrev: "TODO - Abbreviation"
+title: "Discourage Accommodation for Classic DNS over UDP"
 category: info
 
-docname: draft-todo-yourname-protocol-latest
-submissiontype: IETF  # also: "independent", "editorial", "IAB", or "IRTF"
-number:
-date:
-consensus: true
+docname: draft-tojens-do-not-accommodate-udp53
+submissiontype: IETF
 v: 3
-area: AREA
-workgroup: WG Working Group
+area: INT
+workgroup: dnsop
 keyword:
- - next generation
- - unicorn
- - sparkling distributed ledger
-venue:
-  group: WG
-  type: Working Group
-  mail: WG@example.com
-  arch: https://example.com/WG
-  github: USER/REPO
-  latest: https://example.com/LATEST
+ - Classic DNS
+ - DNS over TCP
+ - DNS over UDP
 
 author:
  -
-    fullname: Your Name Here
-    organization: Your Organization Here
-    email: your.email@example.com
+    fullname: Tommy Jensen
+    organization: Microsoft
+    email: tojens.ietf@gmail.com
 
 normative:
 
