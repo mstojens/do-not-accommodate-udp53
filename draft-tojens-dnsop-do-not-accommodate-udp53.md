@@ -1,8 +1,8 @@
 ---
-title: "Discourage Accommodation for Classic DNS over UDP"
+title: "Do Not Accommodate Classic DNS over UDP"
 category: info
 
-docname: draft-tojens-do-not-accommodate-udp53-latest
+docname: draft-tojens-do-not-accommodate-udp53-00
 submissiontype: IETF
 v: 3
 # area: INT
@@ -110,4 +110,4 @@ This document has no IANA actions.
 # Acknowledgments
 {:numbered="false"}
 
-Many thanks for constructive feedback on this document to NULL.
+Many thanks for constructive feedback on this document to TBD.
