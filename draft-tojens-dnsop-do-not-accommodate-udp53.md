@@ -15,7 +15,6 @@ keyword:
 author:
  -
     fullname: Tommy Jensen
-    organization: Microsoft
     email: tojens.ietf@gmail.com
 
 normative:
