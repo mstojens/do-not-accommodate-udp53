@@ -76,7 +76,7 @@ produced by the IETF.
 
 Authors of new IETF documents SHOULD NOT add normative requirements that are
 only necessary to accommodate Classic DNS over UDP that are not necessary to
-accommodate Classic DNS over TCP without sufficient explaination for why UDP is
+accommodate Classic DNS over TCP without sufficient explanation for why UDP is
 a preferable transport to TCP (which would deviate from the Implementation
 Requirements for Classic DNS over TCP {{!RFC7766}}).
 
