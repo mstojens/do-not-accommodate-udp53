@@ -2,7 +2,7 @@
 title: "Do Not Accommodate Classic DNS over UDP"
 category: info
 
-docname: draft-tojens-do-not-accommodate-udp53-00
+docname: draft-tojens-dnsop-do-not-accommodate-udp53-00
 submissiontype: IETF
 v: 3
 # area: INT
